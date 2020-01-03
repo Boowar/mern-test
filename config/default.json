@@ -1,0 +1,6 @@
+{
+  "port": 5005,
+  "jwtSecret": "yarchukmern",
+  "mongoUrl": "mongodb+srv://boowar:boowar1@cluster0-azszg.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5005"
+}
